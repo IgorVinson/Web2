@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+div {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.top-container {
+
+}
+
+.button {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #34bdd9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #d1b422;
+  text-decoration: none;
+}
+
+h1 {
+  margin-top: 50px;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height:inherit;
+}
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 100px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+}
+
+a {
+  color: #11999E;
+  font-size: 22px;
+  font-weight: bold;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  margin-top: 50px;
+  display: block;
+  margin-left: 65%;
+}
+
+.midlle-cloud {
+  display: block;
+  margin-left: 30%;
+}
+.mount {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+.skills {
+  text-align: left;
+}
+.imgskill {
+  width: 100px;
+  float: left;
+}
+.p-skills {
+  padding-left: 200px;
+}
+.imgskill1 {
+  width: 100px;
+  float: right;
+}
